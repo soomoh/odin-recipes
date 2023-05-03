@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+}
+
+div#bodyimg {
+    padding: 20px;
+}
+
+div p,
+div img,
+.list {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkslateblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.subhead {
+    padding-left: 20px;
+    text-decoration: underline;
+}
+
+
+.list {    
+    background-color: lightsalmon;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
